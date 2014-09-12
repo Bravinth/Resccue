@@ -1,0 +1,24 @@
+{
+  "name": "Resccue",
+  "version": "1.0.0",
+  "description": "My sample Resscue Proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bravinth/Resccue.git"
+  },
+  "author": "Bravinth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bravinth/Resccue/issues"
+  },
+  "homepage": "https://github.com/Bravinth/Resccue",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-concat": "^0.5.0"
+  }
+}
